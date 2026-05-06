@@ -5,6 +5,9 @@
 
 ---
 
+![Static Output](outputs/persistent_homology_markets.png)
+
+---
 ## What This Is
 
 Most quantitative finance research looks at *statistics* of markets — returns, volatilities, correlations. This project looks at something fundamentally different: the **topological shape** of the market network — how many clusters exist, how many loops, and how they evolve as a continuous function of scale.
